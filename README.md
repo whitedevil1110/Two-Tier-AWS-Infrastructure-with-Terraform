@@ -48,7 +48,7 @@ terraform apply -var-file=variables.tfvars --auto-approve
 ```  
 ### VPC & Other Networking related Services
 ## VPC
-https://miro.medium.com/v2/resize:fit:736/0*bTcoJoGjlg6ama3c
+(https://miro.medium.com/v2/resize:fit:736/0*bTcoJoGjlg6ama3c)
 
 ## Public and Private Subnets
 
