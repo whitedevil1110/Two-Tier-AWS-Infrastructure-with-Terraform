@@ -53,45 +53,56 @@ terraform apply -var-file=variables.tfvars --auto-approve
 
 ## Public and Private Subnets
 
-https://miro.medium.com/v2/resize:fit:736/0*2VWNj0x3QI9FcHwm
+<img width="736" height="83" alt="image" src="https://github.com/user-attachments/assets/472c71c1-6667-4d5f-8c98-cedfdd66a31e" />
+
+
 
 ## Public and Private Route tables
 
-https://miro.medium.com/v2/resize:fit:736/0*p9tDNlLzWHy9X4Y2
+<img width="736" height="94" alt="image" src="https://github.com/user-attachments/assets/f85d9ca8-0e4f-4523-9a78-ba270430d4b3" />
+
 
 ## Internet Gateway
 
-https://miro.medium.com/v2/resize:fit:736/0*6ETHLCPnh6ScG03w
+<img width="736" height="94" alt="image" src="https://github.com/user-attachments/assets/6bea680a-74b4-4174-b3df-bbfafcad5901" />
+
 
 ## Elastic IP addresses
 
-https://miro.medium.com/v2/resize:fit:736/0*gR3KFl_WY8e5ddzP
+<img width="736" height="94" alt="image" src="https://github.com/user-attachments/assets/d4de0079-7284-49d1-a40c-81e1f4be23b6" />
+
 
 ## NAT Gateways
 
-https://miro.medium.com/v2/resize:fit:736/0*Ge6MwFoqlok3UBq4
+<img width="736" height="94" alt="image" src="https://github.com/user-attachments/assets/2d0c4788-d6c1-472f-be10-da9552c4d62e" />
+
 
 ## Security Groups
 
-https://miro.medium.com/v2/resize:fit:736/0*Molv2WHfNmwfRmuJ
+<img width="736" height="114" alt="image" src="https://github.com/user-attachments/assets/44390e5b-ce67-473d-85b2-38a7bb7a72ca" />
+
 
 ### EC2 & AutoScaling Group
 ## Launch template
 
-https://miro.medium.com/v2/resize:fit:736/0*Q2Sd8xEyiah7Djdb
+<img width="736" height="114" alt="image" src="https://github.com/user-attachments/assets/e63bc44a-56a5-4b35-b1ab-fedad26b6154" />
+
 
 ## AutoScaling Group
 
-https://miro.medium.com/v2/resize:fit:736/0*C618R7r4U4-kmX3B
+<img width="736" height="114" alt="image" src="https://github.com/user-attachments/assets/bacc1212-752b-4896-9298-5892b6df6851" />
+
 
 ### Target Group & Load Balancer
 ## Target Group
 
-https://miro.medium.com/v2/resize:fit:736/0*EsEEVf7ApGKkQTFe
+<img width="736" height="114" alt="image" src="https://github.com/user-attachments/assets/4aae7a6f-93ca-409c-b9fb-8b3b35d39439" />
+
 
 ## Load balancer
 
-https://miro.medium.com/v2/resize:fit:736/0*QTCPt2j7Gd5OpURt
+<img width="736" height="114" alt="image" src="https://github.com/user-attachments/assets/bee54eaa-c088-43fa-976e-0efa287c41d7" />
+
 
 ### Database
 ## Subnet Group for RDS
